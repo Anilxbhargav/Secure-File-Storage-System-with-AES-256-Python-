@@ -1,0 +1,11 @@
+This is a sample file used to test the Secure File Storage System.
+
+You can use this file to try out the encryption and decryption features:
+
+1. Run "python main.py"
+2. Choose option 1 (Encrypt File)
+3. Enter the path: sample_files/sample.txt
+4. Choose option 2 (Decrypt File) and select the resulting .enc file
+5. Check the decrypted_files/ folder for the restored file
+
+Feel free to edit this file or add your own files to test with!
